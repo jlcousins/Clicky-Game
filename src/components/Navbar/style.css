@@ -1,0 +1,30 @@
+nav {
+  width: 100%;
+  background:rgb(240, 238, 154);
+  font-size: 2rem;
+  white-space: nowrap;
+  z-index: 99;
+}
+
+ul {
+  display: block;
+}
+
+nav li {
+  display: inline-block;
+  padding: 20px 0;
+  width: 40%;
+  text-align: center;
+}
+
+li :right {
+  float: right;
+}
+
+a {
+  font-size: 2rem;
+  font-weight: bold;
+  color:  rgb(101, 192, 219);
+}
+
+

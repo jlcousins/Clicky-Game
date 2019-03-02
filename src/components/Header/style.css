@@ -1,0 +1,18 @@
+.header {
+    width: 100%;
+    background-image: url("https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2017/11/hey_arnold_jungle_press_art.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 180 20px;
+    padding-top: 200px;
+    padding-bottom: 140px;
+    font-size: 4rem;
+  }
+
+
+  h1, h2 {
+    color: black;
+    font-weight: bold;
+    padding-bottom: 20px;
+  }

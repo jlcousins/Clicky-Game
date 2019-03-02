@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "image": "https://vignette.wikia.nocookie.net/heyarnold/images/9/9c/GeraldShow.png/revision/latest?cb=20181027162223",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://vignette.wikia.nocookie.net/heyarnold/images/9/93/Phoebe_%28classic%29.png/revision/latest/scale-to-width-down/257?cb=20190130065623",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://vignette.wikia.nocookie.net/heyarnold/images/f/f5/Arnold.png/revision/latest?cb=20181027162333",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://vignette.wikia.nocookie.net/heyarnold/images/e/e5/Helga_Pataki.png/revision/latest/scale-to-width-down/276?cb=20190203080707",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://vignette.wikia.nocookie.net/heyarnold/images/7/79/GrandpaPhil.png/revision/latest/scale-to-width-down/300?cb=20160924030436",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "https://vignette.wikia.nocookie.net/heyarnold/images/9/99/EAFDB121-EC13-4F12-849E-37037A95E3D6.png/revision/latest/scale-to-width-down/268?cb=20190130071039",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://vignette.wikia.nocookie.net/heyarnold/images/d/db/Upscale-230765195014212.png/revision/latest/scale-to-width-down/285?cb=20190129234241",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://vignette.wikia.nocookie.net/heyarnold/images/b/b4/C1BBB448-FE38-4F7B-98FA-2137F277F9C5.png/revision/latest/scale-to-width-down/212?cb=20190130065138",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://vignette.wikia.nocookie.net/heyarnold/images/0/0d/B8C3C534-31BF-4D15-9D90-A723F5525F12.png/revision/latest/scale-to-width-down/237?cb=20190130003650",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": " https://vignette.wikia.nocookie.net/heyarnold/images/e/e1/Willie_promo.png/revision/latest/scale-to-width-down/195?cb=20181021113858",
+        "clicked": false
+    }
+]
